@@ -17,5 +17,16 @@ System.out.println("Todo va bien");
 {
 System.out.println("El resultado es: "+suma);
 }
+
+
+public class Metodo{
+
+int a;
+for(a=1;a<=10;a++){
+System.out.println(a);
+
+}
+
+}
 }
 
