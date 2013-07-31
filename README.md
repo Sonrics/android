@@ -28,5 +28,14 @@ System.out.println(a);
 }
 
 }
+
+ public class unoMas
+ suma = a+b;
+if(suma<=30){
+System.out.println("Todo va bien");
+}else
+{
+System.out.println("El resultado es: "+suma);
+}
 }
 
